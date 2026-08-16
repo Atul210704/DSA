@@ -1,8 +1,12 @@
 #include<iostream>
-using namspace std;
-int maain(){
-    int = 5;
+using namespace std;
+int main(){
+
+    int n = 5;
     for(int row=1; row<=n; row ++){
-        for(int col=1; col)
+        for(int col=1; col<=row; col++){
+            cout << "* ";
+        }
+        cout << endl;
     }
 }
