@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/atulsharma/DSA/Pattern/output/count_even&odd_element'
+relocations:     []
+...
